@@ -109,14 +109,14 @@ curl -X POST http://15.206.168.132:3111/v1/chat/completions \
 }
 ```
 
-### Sample Response
+### Sample Response 
 
 ```json
 {
   "result": "Quantum entanglement is a phenomenon where two particles become correlated such that the state of one instantly influences the other, regardless of distance."
 }
 ```
-
+Note that it ws sample responses
 ---
 
 ## Redeploy from Scratch
